@@ -6,4 +6,9 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: 400;
-  }
+  text-decoration: none;
+}
+
+.feinman__link:hover {
+  opacity: .5;
+}

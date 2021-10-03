@@ -6,6 +6,11 @@
   font-size: 18px;
   font-weight: 400;
   color: #f1f1f1;
+  text-decoration: none;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
 }
 
 .footer__column-link:last-child {
