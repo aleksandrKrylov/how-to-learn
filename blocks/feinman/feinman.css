@@ -1,7 +1,8 @@
 .feinman {
-  height: 890px;
+  min-height: 890px;
   padding-top: 100px;
   background: #f2f2f2 no-repeat bottom left;
   background-image: url("../../../images/feinman.png");
   position: relative;
+  box-sizing: border-box;
 }
